@@ -1,0 +1,4 @@
+D:\VSStudy\PerfectNum\PerfectNum\bin\Debug\PerfectNum.exe
+D:\VSStudy\PerfectNum\PerfectNum\bin\Debug\PerfectNum.pdb
+D:\VSStudy\PerfectNum\PerfectNum\obj\x86\Debug\PerfectNum.exe
+D:\VSStudy\PerfectNum\PerfectNum\obj\x86\Debug\PerfectNum.pdb

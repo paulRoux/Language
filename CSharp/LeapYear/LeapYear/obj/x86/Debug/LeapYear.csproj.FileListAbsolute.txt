@@ -1,0 +1,7 @@
+D:\VSStudy\LeapYear\LeapYear\obj\x86\Debug\LeapYear.Form1.resources
+D:\VSStudy\LeapYear\LeapYear\obj\x86\Debug\LeapYear.Properties.Resources.resources
+D:\VSStudy\LeapYear\LeapYear\obj\x86\Debug\LeapYear.csproj.GenerateResource.Cache
+D:\VSStudy\LeapYear\LeapYear\bin\Debug\LeapYear.exe
+D:\VSStudy\LeapYear\LeapYear\bin\Debug\LeapYear.pdb
+D:\VSStudy\LeapYear\LeapYear\obj\x86\Debug\LeapYear.exe
+D:\VSStudy\LeapYear\LeapYear\obj\x86\Debug\LeapYear.pdb

@@ -1,0 +1,7 @@
+D:\VSStudy\Reverse\Reverse\bin\Debug\Reverse.exe
+D:\VSStudy\Reverse\Reverse\bin\Debug\Reverse.pdb
+D:\VSStudy\Reverse\Reverse\obj\x86\Debug\Reverse.Reverse.resources
+D:\VSStudy\Reverse\Reverse\obj\x86\Debug\Reverse.Properties.Resources.resources
+D:\VSStudy\Reverse\Reverse\obj\x86\Debug\Reverse.csproj.GenerateResource.Cache
+D:\VSStudy\Reverse\Reverse\obj\x86\Debug\Reverse.exe
+D:\VSStudy\Reverse\Reverse\obj\x86\Debug\Reverse.pdb
