@@ -1,0 +1,9 @@
+D:\VSStudy\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+D:\VSStudy\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\VSStudy\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\VSStudy\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\VSStudy\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\VSStudy\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\VSStudy\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\VSStudy\CSharp\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\VSStudy\CSharp\Calculator\Calculator\obj\x86\Debug\Calculator.pdb

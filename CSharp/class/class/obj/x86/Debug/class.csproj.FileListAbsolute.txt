@@ -1,0 +1,7 @@
+D:\VSStudy\class\class\bin\Debug\@class.exe
+D:\VSStudy\class\class\bin\Debug\@class.pdb
+D:\VSStudy\class\class\obj\x86\Debug\class.Form1.resources
+D:\VSStudy\class\class\obj\x86\Debug\class.Properties.Resources.resources
+D:\VSStudy\class\class\obj\x86\Debug\class.csproj.GenerateResource.Cache
+D:\VSStudy\class\class\obj\x86\Debug\@class.exe
+D:\VSStudy\class\class\obj\x86\Debug\@class.pdb

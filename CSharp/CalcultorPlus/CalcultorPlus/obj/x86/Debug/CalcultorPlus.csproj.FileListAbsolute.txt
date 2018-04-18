@@ -1,0 +1,9 @@
+D:\VSStudy\CalcultorPlus\CalcultorPlus\obj\x86\Debug\CalcultorPlus.Form1.resources
+D:\VSStudy\CalcultorPlus\CalcultorPlus\obj\x86\Debug\CalcultorPlus.Properties.Resources.resources
+D:\VSStudy\CalcultorPlus\CalcultorPlus\obj\x86\Debug\CalcultorPlus.csproj.GenerateResource.Cache
+D:\VSStudy\CalcultorPlus\CalcultorPlus\bin\Debug\CalcultorPlus.exe
+D:\VSStudy\CalcultorPlus\CalcultorPlus\bin\Debug\CalcultorPlus.pdb
+D:\VSStudy\CalcultorPlus\CalcultorPlus\obj\x86\Debug\CalcultorPlus.exe
+D:\VSStudy\CalcultorPlus\CalcultorPlus\obj\x86\Debug\CalcultorPlus.pdb
+D:\VSStudy\CSharp\CalcultorPlus\CalcultorPlus\obj\x86\Debug\CalcultorPlus.exe
+D:\VSStudy\CSharp\CalcultorPlus\CalcultorPlus\obj\x86\Debug\CalcultorPlus.pdb
