@@ -1,0 +1,7 @@
+D:\VSStudy\FileDirect\FileDirect\obj\x86\Debug\FileDirect.FileDirect.resources
+D:\VSStudy\FileDirect\FileDirect\obj\x86\Debug\FileDirect.Properties.Resources.resources
+D:\VSStudy\FileDirect\FileDirect\obj\x86\Debug\FileDirect.csproj.GenerateResource.Cache
+D:\VSStudy\FileDirect\FileDirect\bin\Debug\FileDirect.exe
+D:\VSStudy\FileDirect\FileDirect\bin\Debug\FileDirect.pdb
+D:\VSStudy\FileDirect\FileDirect\obj\x86\Debug\FileDirect.exe
+D:\VSStudy\FileDirect\FileDirect\obj\x86\Debug\FileDirect.pdb

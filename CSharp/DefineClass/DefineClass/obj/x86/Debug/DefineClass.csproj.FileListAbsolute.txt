@@ -1,0 +1,7 @@
+D:\VSStudy\DefineClass\DefineClass\obj\x86\Debug\DefineClass.DefineClass.resources
+D:\VSStudy\DefineClass\DefineClass\obj\x86\Debug\DefineClass.Properties.Resources.resources
+D:\VSStudy\DefineClass\DefineClass\obj\x86\Debug\DefineClass.csproj.GenerateResource.Cache
+D:\VSStudy\DefineClass\DefineClass\bin\Debug\DefineClass.exe
+D:\VSStudy\DefineClass\DefineClass\bin\Debug\DefineClass.pdb
+D:\VSStudy\DefineClass\DefineClass\obj\x86\Debug\DefineClass.exe
+D:\VSStudy\DefineClass\DefineClass\obj\x86\Debug\DefineClass.pdb

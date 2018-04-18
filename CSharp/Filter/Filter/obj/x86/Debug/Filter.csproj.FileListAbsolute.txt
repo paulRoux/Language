@@ -1,0 +1,7 @@
+D:\VSStudy\Filter\Filter\bin\Debug\Filter.exe
+D:\VSStudy\Filter\Filter\bin\Debug\Filter.pdb
+D:\VSStudy\Filter\Filter\obj\x86\Debug\Filter.Properties.Resources.resources
+D:\VSStudy\Filter\Filter\obj\x86\Debug\Filter.csproj.GenerateResource.Cache
+D:\VSStudy\Filter\Filter\obj\x86\Debug\Filter.exe
+D:\VSStudy\Filter\Filter\obj\x86\Debug\Filter.pdb
+D:\VSStudy\Filter\Filter\obj\x86\Debug\Filter.Fliter.resources

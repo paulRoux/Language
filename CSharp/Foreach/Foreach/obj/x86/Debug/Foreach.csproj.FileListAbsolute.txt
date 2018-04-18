@@ -1,0 +1,7 @@
+D:\VSStudy\Foreach\Foreach\bin\Debug\Foreach.exe
+D:\VSStudy\Foreach\Foreach\bin\Debug\Foreach.pdb
+D:\VSStudy\Foreach\Foreach\obj\x86\Debug\Foreach.Form1.resources
+D:\VSStudy\Foreach\Foreach\obj\x86\Debug\Foreach.Properties.Resources.resources
+D:\VSStudy\Foreach\Foreach\obj\x86\Debug\Foreach.csproj.GenerateResource.Cache
+D:\VSStudy\Foreach\Foreach\obj\x86\Debug\Foreach.exe
+D:\VSStudy\Foreach\Foreach\obj\x86\Debug\Foreach.pdb
