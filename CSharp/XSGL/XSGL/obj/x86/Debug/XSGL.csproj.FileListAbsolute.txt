@@ -1,0 +1,17 @@
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.Login.resources
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.Properties.Resources.resources
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.csproj.GenerateResource.Cache
+D:\VSStudy\CSharp\XSGL\XSGL\bin\Debug\XSGL.exe
+D:\VSStudy\CSharp\XSGL\XSGL\bin\Debug\XSGL.pdb
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.exe
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.pdb
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.AboutForm.resources
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.StudentMsg.resources
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.CourseMsg.resources
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.Main.resources
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.CourseFrm.resources
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.StudentFrm.resources
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.csprojResolveAssemblyReference.cache
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.TeacherFrm.resources
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.TeacherMsg.resources
+D:\VSStudy\CSharp\XSGL\XSGL\obj\x86\Debug\XSGL.GradeCheck.resources
