@@ -1,0 +1,50 @@
+D:\My Projects\feifei\C#\Calculator\Calculator\bin\Release\Calculator.exe
+D:\My Projects\feifei\C#\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\My Projects\feifei\C#\Calculator\Calculator\obj\Release\ResolveAssemblyReference.cache
+D:\My Projects\feifei\C#\Calculator\Calculator\obj\Release\Calculator.Interface.resources
+D:\My Projects\feifei\C#\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\My Projects\feifei\C#\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+D:\My Projects\feifei\C#\Calculator\Calculator\obj\Release\Calculator.exe
+D:\My Projects\feifei\C#\Calculator\Calculator\obj\Release\Calculator.pdb
+D:\My Projects\feifei\C#\Calculator_简化版\Calculator\obj\Release\Calculator.exe
+D:\My Projects\feifei\C#\Calculator_简化版\Calculator\obj\Release\Calculator.pdb
+D:\My Projects\feifei\C#\Calculator_简化版\Calculator\bin\Release\Calculator.exe
+D:\My Projects\feifei\C#\Calculator_简化版\Calculator\bin\Release\Calculator.pdb
+D:\My Projects\feifei\C#\Calculator_简化版\Calculator\obj\Release\ResolveAssemblyReference.cache
+D:\My Projects\feifei\C#\Calculator_简化版\Calculator\obj\Release\Calculator.Interface.resources
+D:\My Projects\feifei\C#\Calculator_简化版\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\My Projects\feifei\C#\Calculator_简化版\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+J:\2011年c#\第四讲\Demo3\Calculator_简化版\Calculator\obj\Release\Calculator.exe
+J:\2011年c#\第四讲\Demo3\Calculator_简化版\Calculator\obj\Release\Calculator.pdb
+D:\Demo\2011年c#\第四讲\demo4\Calculator_简化版\Calculator\obj\Release\Calculator.exe
+D:\Demo\2011年c#\第四讲\demo4\Calculator_简化版\Calculator\obj\Release\Calculator.pdb
+D:\Demo\2011年c#\第四讲\demo4\Calculator_简化版\Calculator\bin\Release\Calculator.exe
+D:\Demo\2011年c#\第四讲\demo4\Calculator_简化版\Calculator\bin\Release\Calculator.pdb
+D:\Demo\2011年c#\第四讲\demo4\Calculator_简化版\Calculator\obj\Release\ResolveAssemblyReference.cache
+D:\Demo\2011年c#\第四讲\demo4\Calculator_简化版\Calculator\obj\Release\Calculator.Interface.resources
+D:\Demo\2011年c#\第四讲\demo4\Calculator_简化版\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\Demo\2011年c#\第四讲\demo4\Calculator_简化版\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+D:\My Projects\feifei\C#试题库\课程课件\第四讲\demo4\Calculator_简化版\Calculator\bin\Release\Calculator.exe.config
+D:\My Projects\feifei\C#试题库\课程课件\第四讲\demo4\Calculator_简化版\Calculator\obj\Release\Calculator.exe
+D:\My Projects\feifei\C#试题库\课程课件\第四讲\demo4\Calculator_简化版\Calculator\obj\Release\Calculator.pdb
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\Calculator_简化版\Calculator\bin\Release\Calculator.exe.config
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.exe
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\bin\Release\Calculator.exe.config
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.Interface.resources
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\bin\Release\Calculator.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\bin\Release\Calculator.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\bin\Release\Calculator.exe.config
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\bin\Release\Calculator.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\bin\Release\Calculator.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.Interface.resources
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\Calculator_简化版\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache

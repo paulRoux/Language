@@ -1,0 +1,8 @@
+D:\Demo\4-3testclass.abstr\4-3testclass.abstr\bin\Debug\4-3testclass.abstr.exe
+D:\Demo\4-3testclass.abstr\4-3testclass.abstr\bin\Debug\4-3testclass.abstr.pdb
+D:\Demo\4-3testclass.abstr\4-3testclass.abstr\obj\Debug\ResolveAssemblyReference.cache
+D:\Demo\4-3testclass.abstr\4-3testclass.abstr\obj\Debug\4-3testclass.abstr.exe
+D:\Demo\4-3testclass.abstr\4-3testclass.abstr\obj\Debug\4-3testclass.abstr.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testclass.abstr\4-3testclass.abstr\bin\Debug\4-3testclass.abstr.exe.config
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testclass.abstr\4-3testclass.abstr\obj\Debug\4-3testclass.abstr.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testclass.abstr\4-3testclass.abstr\obj\Debug\4-3testclass.abstr.pdb

@@ -1,0 +1,8 @@
+D:\VSStudy\Road\Road\bin\Debug\Road.exe
+D:\VSStudy\Road\Road\bin\Debug\Road.pdb
+D:\VSStudy\Road\Road\obj\x86\Debug\Road.Form1.resources
+D:\VSStudy\Road\Road\obj\x86\Debug\Road.Properties.Resources.resources
+D:\VSStudy\Road\Road\obj\x86\Debug\Road.csproj.GenerateResource.Cache
+D:\VSStudy\Road\Road\obj\x86\Debug\Road.exe
+D:\VSStudy\Road\Road\obj\x86\Debug\Road.pdb
+D:\VSStudy\Road\Road\obj\x86\Debug\Road.csprojResolveAssemblyReference.cache

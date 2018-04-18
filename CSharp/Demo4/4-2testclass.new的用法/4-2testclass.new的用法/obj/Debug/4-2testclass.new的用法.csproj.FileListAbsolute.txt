@@ -1,0 +1,15 @@
+E:\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\bin\Debug\4-2testclass.new的用法.exe
+E:\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\bin\Debug\4-2testclass.new的用法.pdb
+E:\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\obj\Debug\4-2testclass.new的用法.csprojResolveAssemblyReference.cache
+E:\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\obj\Debug\4-2testclass.new的用法.exe
+E:\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\obj\Debug\4-2testclass.new的用法.pdb
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\obj\Debug\4-2testclass.new的用法.exe
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\obj\Debug\4-2testclass.new的用法.pdb
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\bin\Debug\4-2testclass.new的用法.exe
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\bin\Debug\4-2testclass.new的用法.pdb
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\obj\Debug\4-2testclass.new的用法.csprojResolveAssemblyReference.cache
+C:\Users\HASEE\Desktop\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\obj\Debug\4-2testclass.new的用法.exe
+C:\Users\HASEE\Desktop\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\obj\Debug\4-2testclass.new的用法.pdb
+C:\Users\HASEE\Desktop\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\bin\Debug\4-2testclass.new的用法.exe
+C:\Users\HASEE\Desktop\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\bin\Debug\4-2testclass.new的用法.pdb
+C:\Users\HASEE\Desktop\Demo4\4-2testclass.new的用法\4-2testclass.new的用法\obj\Debug\4-2testclass.new的用法.csprojResolveAssemblyReference.cache

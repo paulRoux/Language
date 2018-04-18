@@ -1,0 +1,7 @@
+D:\VSStudy\Sort\Sort\obj\x86\Debug\Sort.Form1.resources
+D:\VSStudy\Sort\Sort\obj\x86\Debug\Sort.Properties.Resources.resources
+D:\VSStudy\Sort\Sort\obj\x86\Debug\Sort.csproj.GenerateResource.Cache
+D:\VSStudy\Sort\Sort\bin\Debug\Sort.exe
+D:\VSStudy\Sort\Sort\bin\Debug\Sort.pdb
+D:\VSStudy\Sort\Sort\obj\x86\Debug\Sort.exe
+D:\VSStudy\Sort\Sort\obj\x86\Debug\Sort.pdb

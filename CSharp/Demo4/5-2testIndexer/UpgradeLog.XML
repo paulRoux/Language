@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="5-2testIndexer">
+</Property><Property Name="解决方案文件" Value="C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\5-2testIndexer.sln">
+</Property><Property Name="用户选项文件" Value="C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\5-2testIndexer.suo">
+</Property><Property Name="Date" Value="2013年5月12日">
+</Property><Property Name="Time" Value="17:55">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="5-2testIndexer.sln" Description="文件已成功备份为 C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\Backup\5-2testIndexer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="5-2testIndexer.suo" Description="文件已成功备份为 C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\Backup\5-2testIndexer.suo">
+</Event><Event ErrorLevel="0" Project="5-2testIndexer" Source="5-2testIndexer\5-2testIndexer.csproj" Description="项目文件已成功备份为 C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\Backup\5-2testIndexer\5-2testIndexer.csproj">
+</Event><Event ErrorLevel="0" Project="5-2testIndexer" Source="5-2testIndexer\Program.cs" Description="文件已成功备份为 C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\Backup\5-2testIndexer\Program.cs">
+</Event><Event ErrorLevel="0" Project="5-2testIndexer" Source="5-2testIndexer\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\Backup\5-2testIndexer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="5-2testIndexer" Source="5-2testIndexer\5-2testIndexer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="5-2testIndexer" Source="5-2testIndexer\5-2testIndexer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="5-2testIndexer.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="5-2testIndexer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="5-2testIndexer" Source="5-2testIndexer\5-2testIndexer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

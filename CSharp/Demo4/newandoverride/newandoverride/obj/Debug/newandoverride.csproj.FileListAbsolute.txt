@@ -1,0 +1,6 @@
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\newandoverride\newandoverride\bin\Debug\newandoverride.exe.config
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\newandoverride\newandoverride\bin\Debug\newandoverride.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\newandoverride\newandoverride\bin\Debug\newandoverride.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\newandoverride\newandoverride\obj\Debug\newandoverride.csprojResolveAssemblyReference.cache
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\newandoverride\newandoverride\obj\Debug\newandoverride.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\newandoverride\newandoverride\obj\Debug\newandoverride.pdb

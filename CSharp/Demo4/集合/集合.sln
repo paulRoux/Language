@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "集合_arraylist", "集合\集合_arraylist.csproj", "{5D547B1B-9ECA-4ABA-9C0E-48AB3ECADC3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "集合_array", "集合_array\集合_array.csproj", "{EF15AE3B-B759-4B82-9213-ABC28B10E122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D547B1B-9ECA-4ABA-9C0E-48AB3ECADC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D547B1B-9ECA-4ABA-9C0E-48AB3ECADC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D547B1B-9ECA-4ABA-9C0E-48AB3ECADC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D547B1B-9ECA-4ABA-9C0E-48AB3ECADC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF15AE3B-B759-4B82-9213-ABC28B10E122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF15AE3B-B759-4B82-9213-ABC28B10E122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF15AE3B-B759-4B82-9213-ABC28B10E122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF15AE3B-B759-4B82-9213-ABC28B10E122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

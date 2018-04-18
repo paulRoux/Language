@@ -1,0 +1,19 @@
+D:\My Projects\feifei\C#\TestArray\TestArray\bin\Debug\TestArray.exe
+D:\My Projects\feifei\C#\TestArray\TestArray\bin\Debug\TestArray.pdb
+D:\My Projects\feifei\C#\TestArray\TestArray\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\feifei\C#\TestArray\TestArray\obj\Debug\TestArray.exe
+D:\My Projects\feifei\C#\TestArray\TestArray\obj\Debug\TestArray.pdb
+D:\Demo\2011年c#\第三讲\Demo4\class的方法成员调用\TestArray\obj\Debug\TestArray.exe
+D:\Demo\2011年c#\第三讲\Demo4\class的方法成员调用\TestArray\obj\Debug\TestArray.pdb
+D:\Demo\2011年c#\第三讲\Demo4\class的方法成员调用\TestArray\bin\Debug\TestArray.exe
+D:\Demo\2011年c#\第三讲\Demo4\class的方法成员调用\TestArray\bin\Debug\TestArray.pdb
+D:\Demo\2011年c#\第三讲\Demo4\class的方法成员调用\TestArray\obj\Debug\ResolveAssemblyReference.cache
+H:\2011年c#\第四讲\demo4\class的方法成员调用\TestArray\obj\Debug\TestArray.exe
+H:\2011年c#\第四讲\demo4\class的方法成员调用\TestArray\obj\Debug\TestArray.pdb
+H:\2011年c#\第四讲\demo4\class的方法成员调用\TestArray\obj\Debug\ResolveAssemblyReference.cache
+H:\2011年c#\第四讲\demo4\class的方法成员调用\TestArray\bin\Debug\TestArray.exe
+H:\2011年c#\第四讲\demo4\class的方法成员调用\TestArray\bin\Debug\TestArray.pdb
+C:\Users\HASEE\Desktop\Demo4\class的方法成员调用\TestArray\obj\Debug\TestArray.exe
+C:\Users\HASEE\Desktop\Demo4\class的方法成员调用\TestArray\obj\Debug\TestArray.pdb
+C:\Users\HASEE\Desktop\Demo4\class的方法成员调用\TestArray\bin\Debug\TestArray.exe
+C:\Users\HASEE\Desktop\Demo4\class的方法成员调用\TestArray\bin\Debug\TestArray.pdb

@@ -1,0 +1,43 @@
+C:\Documents and Settings\fr\桌面\web\testceshi\4-4接口\4-4接口\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\桌面\web\testceshi\4-4接口\4-4接口\bin\Debug\4-4接口.exe
+C:\Documents and Settings\fr\桌面\web\testceshi\4-4接口\4-4接口\bin\Debug\4-4接口.pdb
+C:\Documents and Settings\fr\桌面\web\testceshi\4-4接口\4-4接口\obj\Debug\4-4接口.exe
+C:\Documents and Settings\fr\桌面\web\testceshi\4-4接口\4-4接口\obj\Debug\4-4接口.pdb
+D:\Demo\2011年c#\第四讲\demo4\4-4接口\4-4接口\obj\Debug\4-4接口.exe
+D:\Demo\2011年c#\第四讲\demo4\4-4接口\4-4接口\obj\Debug\4-4接口.pdb
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.exe.config
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.exe
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.pdb
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.exe
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.pdb
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-4接口\4-4接口\obj\Debug\ResolveAssemblyReference.cache
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.exe.config
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.csprojResolveAssemblyReference.cache
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.exe.config
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.csprojResolveAssemblyReference.cache
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.exe.config
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.exe
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.pdb
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.exe
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.pdb
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.csprojResolveAssemblyReference.cache
+E:\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.exe.config
+E:\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.exe
+E:\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.pdb
+E:\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.exe
+E:\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.pdb
+E:\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.csprojResolveAssemblyReference.cache
+C:\Users\HASEE\Desktop\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.exe.config
+C:\Users\HASEE\Desktop\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.exe
+C:\Users\HASEE\Desktop\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.pdb
+C:\Users\HASEE\Desktop\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.exe
+C:\Users\HASEE\Desktop\Demo4\4-4接口\4-4接口\bin\Debug\4-4接口.pdb
+C:\Users\HASEE\Desktop\Demo4\4-4接口\4-4接口\obj\Debug\4-4接口.csprojResolveAssemblyReference.cache

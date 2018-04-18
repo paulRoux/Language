@@ -1,0 +1,7 @@
+D:\VSStudy\Switch\Switch\bin\Debug\Switch.exe
+D:\VSStudy\Switch\Switch\bin\Debug\Switch.pdb
+D:\VSStudy\Switch\Switch\obj\x86\Debug\Switch.Form1.resources
+D:\VSStudy\Switch\Switch\obj\x86\Debug\Switch.Properties.Resources.resources
+D:\VSStudy\Switch\Switch\obj\x86\Debug\Switch.csproj.GenerateResource.Cache
+D:\VSStudy\Switch\Switch\obj\x86\Debug\Switch.exe
+D:\VSStudy\Switch\Switch\obj\x86\Debug\Switch.pdb

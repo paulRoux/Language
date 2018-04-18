@@ -1,0 +1,9 @@
+D:\Demo\2011年c#\第四讲\demo4\test继承\test继承\obj\Debug\ResolveAssemblyReference.cache
+D:\Demo\2011年c#\第四讲\demo4\test继承\test继承\bin\Debug\test继承.exe
+D:\Demo\2011年c#\第四讲\demo4\test继承\test继承\bin\Debug\test继承.pdb
+D:\Demo\2011年c#\第四讲\demo4\test继承\test继承\obj\Debug\test继承.exe
+D:\Demo\2011年c#\第四讲\demo4\test继承\test继承\obj\Debug\test继承.pdb
+C:\Users\HASEE\Desktop\Demo4\test继承\test继承\obj\Debug\test继承.exe
+C:\Users\HASEE\Desktop\Demo4\test继承\test继承\obj\Debug\test继承.pdb
+C:\Users\HASEE\Desktop\Demo4\test继承\test继承\bin\Debug\test继承.exe
+C:\Users\HASEE\Desktop\Demo4\test继承\test继承\bin\Debug\test继承.pdb

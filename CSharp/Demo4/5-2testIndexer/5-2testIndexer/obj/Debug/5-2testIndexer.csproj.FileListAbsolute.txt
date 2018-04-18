@@ -1,0 +1,11 @@
+D:\Demo\5-2testIndexer\5-2testIndexer\bin\Debug\5-2testIndexer.exe
+D:\Demo\5-2testIndexer\5-2testIndexer\bin\Debug\5-2testIndexer.pdb
+D:\Demo\5-2testIndexer\5-2testIndexer\obj\Debug\ResolveAssemblyReference.cache
+D:\Demo\5-2testIndexer\5-2testIndexer\obj\Debug\5-2testIndexer.exe
+D:\Demo\5-2testIndexer\5-2testIndexer\obj\Debug\5-2testIndexer.pdb
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\5-2testIndexer\bin\Debug\5-2testIndexer.exe.config
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\5-2testIndexer\obj\Debug\5-2testIndexer.exe
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\5-2testIndexer\obj\Debug\5-2testIndexer.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\5-2testIndexer\bin\Debug\5-2testIndexer.exe.config
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\5-2testIndexer\obj\Debug\5-2testIndexer.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\5-2testIndexer\5-2testIndexer\obj\Debug\5-2testIndexer.pdb

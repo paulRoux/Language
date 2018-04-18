@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-1hashtable", "5-1hashtable\5-1hashtable.csproj", "{B8F8F73A-71DB-4A2E-83C6-1237236670C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F8F73A-71DB-4A2E-83C6-1237236670C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F8F73A-71DB-4A2E-83C6-1237236670C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F8F73A-71DB-4A2E-83C6-1237236670C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F8F73A-71DB-4A2E-83C6-1237236670C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

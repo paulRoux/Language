@@ -1,0 +1,4 @@
+C:\Users\HASEE\Desktop\Demo4\5-2索引器\Backup\5-2索引器\bin\Debug\5-2索引器.exe
+C:\Users\HASEE\Desktop\Demo4\5-2索引器\Backup\5-2索引器\bin\Debug\5-2索引器.pdb
+C:\Users\HASEE\Desktop\Demo4\5-2索引器\Backup\5-2索引器\obj\Debug\5-2索引器.exe
+C:\Users\HASEE\Desktop\Demo4\5-2索引器\Backup\5-2索引器\obj\Debug\5-2索引器.pdb

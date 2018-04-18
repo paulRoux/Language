@@ -1,0 +1,7 @@
+D:\VSStudy\TranArgument\TranArgument\obj\x86\Debug\TranArgument.Properties.Resources.resources
+D:\VSStudy\TranArgument\TranArgument\obj\x86\Debug\TranArgument.TranArgument.resources
+D:\VSStudy\TranArgument\TranArgument\obj\x86\Debug\TranArgument.csproj.GenerateResource.Cache
+D:\VSStudy\TranArgument\TranArgument\bin\Debug\TranArgument.exe
+D:\VSStudy\TranArgument\TranArgument\bin\Debug\TranArgument.pdb
+D:\VSStudy\TranArgument\TranArgument\obj\x86\Debug\TranArgument.exe
+D:\VSStudy\TranArgument\TranArgument\obj\x86\Debug\TranArgument.pdb

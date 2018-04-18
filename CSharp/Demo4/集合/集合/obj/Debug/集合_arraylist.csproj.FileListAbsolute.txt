@@ -1,0 +1,29 @@
+D:\Demo\2011年c#\第四讲\demo4\集合\集合\bin\Debug\集合.exe
+D:\Demo\2011年c#\第四讲\demo4\集合\集合\bin\Debug\集合.pdb
+D:\Demo\2011年c#\第四讲\demo4\集合\集合\obj\Debug\ResolveAssemblyReference.cache
+D:\Demo\2011年c#\第四讲\demo4\集合\集合\obj\Debug\集合.exe
+D:\Demo\2011年c#\第四讲\demo4\集合\集合\obj\Debug\集合.pdb
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\集合\集合\bin\Debug\集合.exe.config
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\集合\集合\obj\Debug\集合.exe
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\集合\集合\obj\Debug\集合.pdb
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\集合\集合\bin\Debug\集合.exe
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\集合\集合\bin\Debug\集合.pdb
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\集合\集合\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\bin\Debug\集合.exe.config
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\obj\Debug\集合.exe
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\obj\Debug\集合.pdb
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\bin\Debug\集合.exe
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\bin\Debug\集合.pdb
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\obj\Debug\ResolveAssemblyReference.cache
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\bin\Debug\集合.exe.config
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\obj\Debug\集合.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\obj\Debug\集合.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\bin\Debug\集合.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\bin\Debug\集合.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\obj\Debug\集合_arraylist.csprojResolveAssemblyReference.cache
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\bin\Debug\集合.exe.config
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\obj\Debug\集合.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\obj\Debug\集合.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\bin\Debug\集合.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\bin\Debug\集合.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\集合\集合\obj\Debug\集合_arraylist.csprojResolveAssemblyReference.cache

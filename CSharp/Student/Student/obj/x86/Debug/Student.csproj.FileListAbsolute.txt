@@ -1,0 +1,15 @@
+D:\VSStudy\Student\Student\obj\x86\Debug\Student.Form1.resources
+D:\VSStudy\Student\Student\obj\x86\Debug\Student.Properties.Resources.resources
+D:\VSStudy\Student\Student\obj\x86\Debug\Student.csproj.GenerateResource.Cache
+D:\VSStudy\Student\Student\bin\Debug\Student.exe
+D:\VSStudy\Student\Student\bin\Debug\Student.pdb
+D:\VSStudy\Student\Student\obj\x86\Debug\Student.exe
+D:\VSStudy\Student\Student\obj\x86\Debug\Student.pdb
+D:\VSStudy\CSharp\Student\Student\obj\x86\Debug\Student.exe
+D:\VSStudy\CSharp\Student\Student\obj\x86\Debug\Student.pdb
+D:\VSStudy\CSharp\Student\Student\bin\Debug\Student.exe
+D:\VSStudy\CSharp\Student\Student\bin\Debug\Student.pdb
+D:\VSStudy\CSharp\Student\Student\obj\x86\Debug\Student.csprojResolveAssemblyReference.cache
+D:\VSStudy\CSharp\Student\Student\obj\x86\Debug\Student.Form1.resources
+D:\VSStudy\CSharp\Student\Student\obj\x86\Debug\Student.Properties.Resources.resources
+D:\VSStudy\CSharp\Student\Student\obj\x86\Debug\Student.csproj.GenerateResource.Cache

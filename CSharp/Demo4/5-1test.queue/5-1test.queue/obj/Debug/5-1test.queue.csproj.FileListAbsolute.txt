@@ -1,0 +1,18 @@
+D:\Demo\5-1test.queue\5-1test.queue\bin\Debug\5-1test.queue.exe
+D:\Demo\5-1test.queue\5-1test.queue\bin\Debug\5-1test.queue.pdb
+D:\Demo\5-1test.queue\5-1test.queue\obj\Debug\ResolveAssemblyReference.cache
+D:\Demo\5-1test.queue\5-1test.queue\obj\Debug\5-1test.queue.exe
+D:\Demo\5-1test.queue\5-1test.queue\obj\Debug\5-1test.queue.pdb
+D:\Demo\2011年c#\第四讲\demo4\5-1test.queue\5-1test.queue\obj\Debug\5-1test.queue.exe
+D:\Demo\2011年c#\第四讲\demo4\5-1test.queue\5-1test.queue\obj\Debug\5-1test.queue.pdb
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-1test.queue\5-1test.queue\bin\Debug\5-1test.queue.exe.config
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-1test.queue\5-1test.queue\obj\Debug\5-1test.queue.exe
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\5-1test.queue\5-1test.queue\obj\Debug\5-1test.queue.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\5-1test.queue\5-1test.queue\bin\Debug\5-1test.queue.exe.config
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\5-1test.queue\5-1test.queue\obj\Debug\5-1test.queue.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\5-1test.queue\5-1test.queue\obj\Debug\5-1test.queue.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\5-1test.queue\5-1test.queue\bin\Debug\5-1test.queue.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\5-1test.queue\5-1test.queue\bin\Debug\5-1test.queue.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\5-1test.queue\5-1test.queue\bin\Debug\5-1test.queue.exe.config
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\5-1test.queue\5-1test.queue\obj\Debug\5-1test.queue.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\5-1test.queue\5-1test.queue\obj\Debug\5-1test.queue.pdb

@@ -1,0 +1,31 @@
+D:\Demo\4-6testdelegate\testdelegate\testdelegate\obj\Debug\ResolveAssemblyReference.cache
+D:\Demo\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.exe
+D:\Demo\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.pdb
+D:\Demo\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.exe
+D:\Demo\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.pdb
+D:\Demo\2011年c#\第四讲\demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.exe
+D:\Demo\2011年c#\第四讲\demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.pdb
+D:\Demo\2011年c#\第四讲\demo4\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.exe
+D:\Demo\2011年c#\第四讲\demo4\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.pdb
+D:\Demo\2011年c#\第四讲\demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.exe.config
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.exe
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.pdb
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.exe
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.pdb
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\ResolveAssemblyReference.cache
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.exe.config
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.csprojResolveAssemblyReference.cache
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.exe.config
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.csprojResolveAssemblyReference.cache
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\bin\Debug\testdelegate.exe.config
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.exe
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-6testdelegate\testdelegate\testdelegate\obj\Debug\testdelegate.pdb

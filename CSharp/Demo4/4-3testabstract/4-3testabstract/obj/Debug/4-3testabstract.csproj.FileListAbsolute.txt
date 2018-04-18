@@ -1,0 +1,30 @@
+C:\Documents and Settings\fr\桌面\web\testceshi\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.exe
+C:\Documents and Settings\fr\桌面\web\testceshi\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.pdb
+C:\Documents and Settings\fr\桌面\web\testceshi\4-3testabstract\4-3testabstract\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fr\桌面\web\testceshi\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.exe
+C:\Documents and Settings\fr\桌面\web\testceshi\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.pdb
+D:\Demo\2011年c#\第四讲\demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.exe
+D:\Demo\2011年c#\第四讲\demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.pdb
+D:\Demo\2011年c#\第四讲\demo4\4-3testabstract\4-3testabstract\obj\Debug\ResolveAssemblyReference.cache
+D:\Demo\2011年c#\第四讲\demo4\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.exe
+D:\Demo\2011年c#\第四讲\demo4\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.pdb
+D:\My Projects\feifei\C#试题库\课程课件\第四讲\demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.exe
+D:\My Projects\feifei\C#试题库\课程课件\第四讲\demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.exe.config
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.exe
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.pdb
+D:\程序设计\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.csprojResolveAssemblyReference.cache
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.exe.config
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.csprojResolveAssemblyReference.cache
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.exe.config
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.exe
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.pdb
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.exe
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-3testabstract\4-3testabstract\bin\Debug\4-3testabstract.pdb
+C:\Users\bt\Documents\云文件夹\工作相关-------------------------------------\2017软件开发技术\陈浩课件\第四讲\Demo4\4-3testabstract\4-3testabstract\obj\Debug\4-3testabstract.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Demo\5-3接口索引器\5-3接口索引器\bin\Debug\5-3接口索引器.exe
+D:\Demo\5-3接口索引器\5-3接口索引器\bin\Debug\5-3接口索引器.pdb
+D:\Demo\5-3接口索引器\5-3接口索引器\obj\Debug\ResolveAssemblyReference.cache
+D:\Demo\5-3接口索引器\5-3接口索引器\obj\Debug\5-3接口索引器.exe
+D:\Demo\5-3接口索引器\5-3接口索引器\obj\Debug\5-3接口索引器.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\5-3接口索引器\5-3接口索引器\obj\Debug\5-3接口索引器.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\5-3接口索引器\5-3接口索引器\obj\Debug\5-3接口索引器.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\5-3接口索引器\5-3接口索引器\bin\Debug\5-3接口索引器.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\5-3接口索引器\5-3接口索引器\bin\Debug\5-3接口索引器.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\5-3接口索引器\5-3接口索引器\obj\Debug\5-3接口索引器.csprojResolveAssemblyReference.cache
+C:\Users\HASEE\Desktop\Demo4\5-3接口索引器\5-3接口索引器\obj\Debug\5-3接口索引器.exe
+C:\Users\HASEE\Desktop\Demo4\5-3接口索引器\5-3接口索引器\obj\Debug\5-3接口索引器.pdb

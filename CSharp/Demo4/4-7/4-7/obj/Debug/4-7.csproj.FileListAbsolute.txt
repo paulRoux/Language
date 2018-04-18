@@ -1,0 +1,20 @@
+D:\Demo\2011年c#\第四讲\demo4\4-7\4-7\bin\Debug\4-7.exe
+D:\Demo\2011年c#\第四讲\demo4\4-7\4-7\bin\Debug\4-7.pdb
+D:\Demo\2011年c#\第四讲\demo4\4-7\4-7\obj\Debug\ResolveAssemblyReference.cache
+D:\Demo\2011年c#\第四讲\demo4\4-7\4-7\obj\Debug\4-7.exe
+D:\Demo\2011年c#\第四讲\demo4\4-7\4-7\obj\Debug\4-7.pdb
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-7\4-7\bin\Debug\4-7.exe.config
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-7\4-7\obj\Debug\4-7.exe
+C:\Documents and Settings\Jobobo\桌面\第三讲\Demo4\4-7\4-7\obj\Debug\4-7.pdb
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\4-7\4-7\bin\Debug\4-7.exe.config
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\4-7\4-7\obj\Debug\4-7.exe
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\4-7\4-7\obj\Debug\4-7.pdb
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\4-7\4-7\bin\Debug\4-7.exe
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\4-7\4-7\bin\Debug\4-7.pdb
+C:\Documents and Settings\Jobobo\桌面\程序设计课件现场版\第三讲、第四讲\Demo4\4-7\4-7\obj\Debug\ResolveAssemblyReference.cache
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-7\4-7\bin\Debug\4-7.exe.config
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-7\4-7\obj\Debug\4-7.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-7\4-7\obj\Debug\4-7.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-7\4-7\bin\Debug\4-7.exe
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-7\4-7\bin\Debug\4-7.pdb
+D:\软开技术课程资料\程序设计课件现场版\第三讲、第四讲\Demo4\4-7\4-7\obj\Debug\4-7.csprojResolveAssemblyReference.cache
